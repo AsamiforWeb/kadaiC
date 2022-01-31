@@ -28,6 +28,6 @@ function clock(){
   }else{
     s = s;
   }
-  document.getElementById("result").textContent =  h + " : " + m + " : " + s;//時刻を表示
+  document.getElementById("result").innerHTML =  h + " : " + m + " : " + s;//時刻を表示
   
 }
