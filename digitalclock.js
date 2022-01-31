@@ -1,5 +1,5 @@
 function start(){
-  window,setInterval(clock, 1000);
+  window.setInterval(clock, 1000);
 }
 
 
